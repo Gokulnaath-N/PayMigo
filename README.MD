@@ -3238,6 +3238,6 @@ PayMigo pays you.
 Automatically. In under 90 seconds.
 ```
 
-[Live Deployment](https://pay-migo-frontend-8pow-34gj3nqev.vercel.app) · [GitHub](https://github.com/darshanar190607/Guidewire_Devtrails.git) · [GeoTruth PyPI](https://pypi.org/project/geotruth)
+[Live Deployment](https://pay-migo-frontend-8pow-34gj3nqev.vercel.app) · [GitHub](https://github.com/Gokulnaath-N/PayMigo.git) · [GeoTruth PyPI](https://pypi.org/project/geotruth)
 
 </div>
