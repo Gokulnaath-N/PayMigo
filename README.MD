@@ -7,13 +7,10 @@
 
 | Resource | URL |
 |---|---|
-| GitHub Repository |https://github.com/darshanar190607/Guidewire_Devtrails.git|
-| Phase 1 Strategy Video |https://youtu.be/CJcxim5aT-E |
-| Phase 2 Demo Video |https://youtu.be/VeZXEUuPCfs|
-| Phase 3 Final Video | [Added April 17] |
-| Live Deployment | pay-migo-frontend-8pow-34gj3nqev.vercel.app |
-| ML Service API Docs | [Add your Render link here]/docs |
-| Figma Wireframes | [Add your Figma link here] |
+| GitHub Repository |https://github.com/Gokulnaath-N/PayMigo.git|
+| Phase 3 Final Video | https://drive.google.com/drive/folders/1emxXgslYC2tif9yD7sf4HFcXLYin03vy?usp=sharing |
+| PPT link | https://drive.google.com/file/d/14tYRZpYtrOamAYRQIG_syYYn7MNUmpM1/view?usp=drive_link |
+
 
 ---
 
@@ -3238,6 +3235,6 @@ PayMigo pays you.
 Automatically. In under 90 seconds.
 ```
 
-[Live Deployment](https://pay-migo-frontend-8pow-34gj3nqev.vercel.app) · [GitHub](https://github.com/Gokulnaath-N/PayMigo.git) · [GeoTruth PyPI](https://pypi.org/project/geotruth)
+[GitHub](https://github.com/Gokulnaath-N/PayMigo.git) · [GeoTruth PyPI](https://pypi.org/project/geotruth)
 
 </div>
