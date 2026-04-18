@@ -1,0 +1,34 @@
+version: '3.9'
+
+# Development-specific overrides for docker-compose.yml
+# Use with: docker compose -f docker-compose.yml -f docker-compose.dev.yml up
+
+services:
+  backend:
+    environment:
+      NODE_ENV: development
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    command: npx nodemon server.js
+    ports:
+      - "5000:5000"
+
+  frontend:
+    environment:
+      NODE_ENV: development
+    volumes:
+      - ./Paymigo_Frontend/web:/app
+      - /app/node_modules
+    command: npm run dev
+    ports:
+      - "3000:3000"
+
+  ml-service:
+    environment:
+      PYTHONUNBUFFERED: 1
+    volumes:
+      - ./ml-services/ML-Service:/app
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+    ports:
+      - "8000:8000"
