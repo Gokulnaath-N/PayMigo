@@ -10,6 +10,8 @@
 | GitHub Repository |https://github.com/Gokulnaath-N/PayMigo.git|
 | Phase 3 Final Video | https://drive.google.com/drive/folders/1emxXgslYC2tif9yD7sf4HFcXLYin03vy?usp=sharing |
 | PPT link | https://drive.google.com/file/d/14tYRZpYtrOamAYRQIG_syYYn7MNUmpM1/view?usp=drive_link |
+| flutter link: |  https://github.com/sarathi-sai7/paymigo-project |
+| flutter geotruth link: | https://github.com/sarathi-sai7/paymigo-project |
 
 
 ---
